@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factory-简单工厂", "Factory-简单工厂", "{3963078D-A176-4E7A-A529-77413CEB483C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Main", "Main\Main.csproj", "{503DF1FB-2277-4F69-9774-21A7BB944D4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMain", "Main\FactoryMain.csproj", "{503DF1FB-2277-4F69-9774-21A7BB944D4E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strategy-策略模式", "Strategy-策略模式", "{FDA14CED-2E77-4E02-87D9-4C474D25E964}"
 EndProject
