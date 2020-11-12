@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Main;
+using System;
 
 namespace FactoryMain
 {
