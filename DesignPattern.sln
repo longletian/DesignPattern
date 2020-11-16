@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Decorator装饰器模式", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorMain", "DecoratorMain\DecoratorMain.csproj", "{4CD2D44B-0EC3-4409-A406-43D80E614A8C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proxy-代理模式", "Proxy-代理模式", "{92183DF7-63FB-4903-A16A-B5B036DECC09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyMain", "ProxyMain\ProxyMain.csproj", "{932A6391-67A3-4039-8770-9CEAAFA1BD52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{4CD2D44B-0EC3-4409-A406-43D80E614A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CD2D44B-0EC3-4409-A406-43D80E614A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CD2D44B-0EC3-4409-A406-43D80E614A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932A6391-67A3-4039-8770-9CEAAFA1BD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932A6391-67A3-4039-8770-9CEAAFA1BD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932A6391-67A3-4039-8770-9CEAAFA1BD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932A6391-67A3-4039-8770-9CEAAFA1BD52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +49,7 @@ Global
 		{503DF1FB-2277-4F69-9774-21A7BB944D4E} = {3963078D-A176-4E7A-A529-77413CEB483C}
 		{F7F64EBA-7CB5-41DB-B46A-A1A93855C463} = {FDA14CED-2E77-4E02-87D9-4C474D25E964}
 		{4CD2D44B-0EC3-4409-A406-43D80E614A8C} = {9D358873-2615-4467-B649-1D335B1555A1}
+		{932A6391-67A3-4039-8770-9CEAAFA1BD52} = {92183DF7-63FB-4903-A16A-B5B036DECC09}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E89B744-5A50-41FC-AD70-9EC2EA2B2894}
